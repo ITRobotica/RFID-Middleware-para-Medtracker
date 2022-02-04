@@ -3,9 +3,9 @@ Código Arduino faz envio dados para Ubidots que pode ser puxados por uma API at
 
 ![image](image/itrobotica.jpeg)
 
-## Começo (Arduino)
+## Middleware (Esp32 - nodemcu )
 
-Deve ser utilizado algum micro-controlador que conecta a rede via WI-FI, após isso basta abrir o arquivo .ino dentro da pasta ubidots-rfid
+Deve ser utilizado algum microcontrolador que conecta a rede via WI-FI, após isso basta abrir o arquivo .ino dentro da pasta ubidots-rfid
 
 Para utilizar o código é necessário instalaçã das seguintes bibliotecas 
 
