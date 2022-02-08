@@ -1,4 +1,5 @@
-//Programa : RFID - Ubidots
+//Programa : RFID Medtracker - Ubidots
+//Teste comunicação IoT via mqqt a partir do broker Ubidots
 //Autor : Nikolas Anjos 
  
 #include <SPI.h>
